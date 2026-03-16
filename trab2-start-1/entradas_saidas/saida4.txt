@@ -1,0 +1,96 @@
+1) 264 void
+2) 257 main
+3) 40 (
+4) 258 int
+5) 257 argc
+6) 44 ,
+7) 263 char
+8) 42 *
+9) 42 *
+10) 257 argv
+11) 41 )
+12) 123 {
+13) 258 int
+14) 257 token
+15) 44 ,
+16) 257 i
+17) 61 =
+18) 256 1
+19) 59 ;
+20) 257 yyin
+21) 61 =
+22) 257 fopen
+23) 40 (
+24) 257 argv
+erro lexico na linha 3 - [
+25) 256 1
+erro lexico na linha 3 - ]
+26) 44 ,
+erro lexico na linha 3 - "
+27) 257 r
+erro lexico na linha 3 - "
+28) 41 )
+29) 59 ;
+30) 257 token
+31) 61 =
+32) 257 yylex
+33) 40 (
+34) 41 )
+35) 59 ;
+36) 262 while
+37) 40 (
+38) 257 token
+39) 41 )
+40) 123 {
+41) 257 printf
+42) 40 (
+erro lexico na linha 6 - "
+erro lexico na linha 6 - %
+43) 257 d
+44) 41 )
+erro lexico na linha 6 - %
+45) 257 d
+erro lexico na linha 6 - %
+46) 257 s
+erro lexico na linha 6 - \
+47) 257 n
+erro lexico na linha 6 - "
+48) 44 ,
+49) 257 i
+50) 43 +
+51) 43 +
+52) 44 ,
+53) 257 token
+54) 44 ,
+55) 257 yytext
+56) 41 )
+57) 59 ;
+58) 257 token
+59) 61 =
+60) 257 yylex
+61) 40 (
+62) 41 )
+63) 59 ;
+64) 125 }
+65) 257 imprime
+66) 40 (
+67) 41 )
+68) 59 ;
+69) 125 }
+
+TABELA DE SIMBOLOS
+0 - main
+1 - argc
+2 - argv
+3 - token
+4 - i
+5 - yyin
+6 - fopen
+7 - r
+8 - yylex
+9 - printf
+10 - d
+11 - s
+12 - n
+13 - yytext
+14 - imprime

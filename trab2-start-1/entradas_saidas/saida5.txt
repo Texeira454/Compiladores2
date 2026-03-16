@@ -1,0 +1,252 @@
+erro lexico na linha 1 - #
+1) 257 include
+2) 60 <
+3) 257 stdio
+4) 46 .
+5) 257 h
+6) 62 >
+7) 264 void
+8) 257 boilWater
+9) 40 (
+10) 41 )
+11) 123 {
+12) 257 printf
+13) 40 (
+erro lexico na linha 4 - "
+14) 257 Step
+15) 256 1
+16) 257 Boil
+17) 256 2
+18) 257 cups
+19) 257 of
+20) 257 water
+21) 46 .
+erro lexico na linha 4 - \
+22) 257 n
+erro lexico na linha 4 - "
+23) 41 )
+24) 59 ;
+25) 125 }
+26) 264 void
+27) 257 addNoodles
+28) 40 (
+29) 41 )
+30) 123 {
+31) 257 printf
+32) 40 (
+erro lexico na linha 8 - "
+33) 257 Step
+34) 256 2
+35) 257 Add
+36) 257 noodles
+37) 257 to
+38) 257 the
+39) 257 boiling
+40) 257 water
+41) 46 .
+erro lexico na linha 8 - \
+42) 257 n
+erro lexico na linha 8 - "
+43) 41 )
+44) 59 ;
+45) 125 }
+46) 264 void
+47) 257 stirNoodles
+48) 40 (
+49) 41 )
+50) 123 {
+51) 257 printf
+52) 40 (
+erro lexico na linha 12 - "
+53) 257 Step
+54) 256 3
+55) 257 Stir
+56) 257 the
+57) 257 noodles
+58) 257 gently
+59) 261 for
+60) 256 3
+61) 257 minutes
+62) 46 .
+erro lexico na linha 12 - \
+63) 257 n
+erro lexico na linha 12 - "
+64) 41 )
+65) 59 ;
+66) 125 }
+67) 264 void
+68) 257 addSeasoning
+69) 40 (
+70) 41 )
+71) 123 {
+72) 257 printf
+73) 40 (
+erro lexico na linha 16 - "
+74) 257 Step
+75) 256 4
+76) 257 Add
+77) 257 seasoning
+78) 257 packet
+79) 257 to
+80) 257 the
+81) 257 noodles
+82) 46 .
+83) 257 Stir
+84) 257 well
+85) 46 .
+erro lexico na linha 16 - \
+86) 257 n
+erro lexico na linha 16 - "
+87) 41 )
+88) 59 ;
+89) 125 }
+90) 264 void
+91) 257 serve
+92) 40 (
+93) 41 )
+94) 123 {
+95) 257 printf
+96) 40 (
+erro lexico na linha 20 - "
+97) 257 Step
+98) 256 5
+99) 257 Turn
+100) 257 off
+101) 257 heat
+102) 257 and
+103) 257 serve
+104) 257 hot
+105) 46 .
+erro lexico na linha 20 - \
+106) 257 n
+erro lexico na linha 20 - "
+107) 41 )
+108) 59 ;
+109) 125 }
+110) 258 int
+111) 257 main
+112) 40 (
+113) 41 )
+114) 123 {
+115) 257 printf
+116) 40 (
+erro lexico na linha 24 - "
+117) 257 Instant
+118) 257 Noodles
+119) 257 Recipe
+erro lexico na linha 24 - \
+120) 257 n
+erro lexico na linha 24 - "
+121) 41 )
+122) 59 ;
+123) 257 printf
+124) 40 (
+erro lexico na linha 25 - "
+125) 257 Ingredients
+126) 257 Instant
+127) 257 noodles
+128) 44 ,
+129) 257 water
+130) 44 ,
+131) 257 seasoning
+132) 257 packet
+133) 46 .
+erro lexico na linha 25 - \
+134) 257 n
+erro lexico na linha 25 - \
+135) 257 n
+erro lexico na linha 25 - "
+136) 41 )
+137) 59 ;
+138) 257 boilWater
+139) 40 (
+140) 41 )
+141) 59 ;
+142) 257 addNoodles
+143) 40 (
+144) 41 )
+145) 59 ;
+146) 257 stirNoodles
+147) 40 (
+148) 41 )
+149) 59 ;
+150) 257 addSeasoning
+151) 40 (
+152) 41 )
+153) 59 ;
+154) 257 serve
+155) 40 (
+156) 41 )
+157) 59 ;
+158) 257 printf
+159) 40 (
+erro lexico na linha 33 - "
+erro lexico na linha 33 - \
+160) 257 nEnjoy
+161) 257 your
+162) 257 meal
+163) 5132116 !
+164) 40 (
+165) 257 And
+166) 257 don
+erro lexico na linha 33 - '
+167) 257 t
+168) 257 burn
+169) 257 yourself
+170) 5132116 !
+171) 41 )
+erro lexico na linha 33 - \
+172) 257 n
+erro lexico na linha 33 - "
+173) 41 )
+174) 59 ;
+175) 268 return
+176) 256 0
+177) 59 ;
+178) 125 }
+
+TABELA DE SIMBOLOS
+0 - include
+1 - stdio
+2 - h
+3 - boilWater
+4 - printf
+5 - Step
+6 - Boil
+7 - cups
+8 - of
+9 - water
+10 - n
+11 - addNoodles
+12 - Add
+13 - noodles
+14 - to
+15 - the
+16 - boiling
+17 - stirNoodles
+18 - Stir
+19 - gently
+20 - minutes
+21 - addSeasoning
+22 - seasoning
+23 - packet
+24 - well
+25 - serve
+26 - Turn
+27 - off
+28 - heat
+29 - and
+30 - hot
+31 - main
+32 - Instant
+33 - Noodles
+34 - Recipe
+35 - Ingredients
+36 - nEnjoy
+37 - your
+38 - meal
+39 - And
+40 - don
+41 - t
+42 - burn
+43 - yourself
